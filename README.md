@@ -26,5 +26,5 @@ Where commands are bitcoind commands e.g. -server=1
 
 ### Thanks
 
-These dockerfiles are based on the dockerfiles from https://github.com/ruimarinho/docker-bitcoin-core adding
+These dockerfiles are based on the dockerfiles from https://github.com/ruimarinho/docker-bitcoin-core
  
